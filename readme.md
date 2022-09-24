@@ -1,4 +1,4 @@
-# Dillinger
+# NodeJS Express MongoDB
 
 ### By building this project I'm teaching myself back end development
 
